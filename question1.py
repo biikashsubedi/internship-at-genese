@@ -1,5 +1,7 @@
+#Importing sqrt from math
 from math import sqrt
 
+#giving perimeter
 perimeters = {}
 for a in range(1, 1000):
     for b in range(1, int(a / 2) + 1):
