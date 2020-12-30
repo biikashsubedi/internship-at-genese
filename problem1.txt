@@ -1,0 +1,7 @@
+Algorithm to determine if a string has all unique characters
+
+In this algorithm i have used several method/approach. 
+First i have used normalized to remove spaces from input and convert in lower case.
+Second i created function to checked the input with dictionary using the help of loop. It checks if the input is in dictionary or not, if present then it detect and filter the result.
+Third i have created function to check length o string and length of set, if we run set on string then it will return all of the unique character.
+And Forth function is checked character with english alphabet. IN this process it check every single character in string.
